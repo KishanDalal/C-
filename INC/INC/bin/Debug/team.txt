@@ -1,0 +1,5 @@
+Name: Kishan Work ID: 22 Gross Pay: 112.5 Social Security: 6.75 Federal Tax: 15.75 Provincal Tax: 5.625 Union Fee: 25 Dependents: 50 Net pay: 9.375
+Name: Kishan2 Work ID: 222 Gross Pay: 1200 Social Security: 72 Federal Tax: 168 Provincal Tax: 60 Union Fee: 25 Dependents: 50 Net pay: 825
+Name: Kihs Work ID: 23 Gross Pay: $60.375 Social Security: $3.6225 Federal Tax: $8.4525 Provincal Tax: $3.01875 Union Fee: $25 Dependents 50 Net pay: $-29.71875
+Name: Kishan3 Work ID: 5 Gross Pay: $120.75 Social Security: $7.245 Federal Tax: $16.905 Provincal Tax: $6.0375 Union Fee: $25 Dependents: 50 Net pay: $15.5625
+Name: Flash Work ID: 232 Gross Pay: $31235.75 Social Security: $1874.145 Federal Tax: $4373.005 Provincal Tax: $1561.7875 Union Fee: $25 Dependents: $50 Net pay: 23351.8125

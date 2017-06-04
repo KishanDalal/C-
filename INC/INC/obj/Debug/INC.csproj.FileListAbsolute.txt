@@ -1,0 +1,9 @@
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\INC\INC\bin\Debug\INC.exe.config
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\bin\Debug\INC.exe
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\bin\Debug\INC.pdb
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\obj\Debug\INC.csprojResolveAssemblyReference.cache
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\obj\Debug\INC.Form1.resources
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\obj\Debug\INC.Properties.Resources.resources
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\obj\Debug\INC.csproj.GenerateResource.Cache
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\obj\Debug\INC.exe
+C:\Users\ikish\OneDrive\Documents\Visual Studio 2013\Projects\INC\INC\obj\Debug\INC.pdb
