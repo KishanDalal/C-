@@ -1,0 +1,6 @@
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\studentGradeCalculator\studentGradeCalculator\bin\Debug\studentGradeCalculator.exe.config
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\studentGradeCalculator\studentGradeCalculator\bin\Debug\studentGradeCalculator.exe
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\studentGradeCalculator\studentGradeCalculator\bin\Debug\studentGradeCalculator.pdb
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\studentGradeCalculator\studentGradeCalculator\obj\Debug\studentGradeCalculator.csprojResolveAssemblyReference.cache
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\studentGradeCalculator\studentGradeCalculator\obj\Debug\studentGradeCalculator.exe
+c:\users\ikish\onedrive\documents\visual studio 2013\Projects\studentGradeCalculator\studentGradeCalculator\obj\Debug\studentGradeCalculator.pdb
